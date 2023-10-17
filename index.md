@@ -34,3 +34,9 @@ Total tutorial duration: 180 minutes
 + **[Hands-on]** Leveraging item's side-information (e.g., multimodal features) to represent node embeddings (Daniele Malitesta): 25 minutes
 
 **Closing remarks and Q&A**: 10 minutes
+
+## Tutorial speakers
+
+### Daniele Malitesta
+
+<img src="https://danielemalitesta.github.io/images/profilo_new.jpeg" alt="Daniele Malitesta" class="rounded-corners" />

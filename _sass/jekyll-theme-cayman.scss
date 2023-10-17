@@ -105,6 +105,10 @@ a {
   }
 }
 
+.img.rounded-corners {
+  border-radius: 50%;
+}
+
 .page-header {
   color: $header-heading-color;
   text-align: center;
