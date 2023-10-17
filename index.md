@@ -39,4 +39,24 @@ Total tutorial duration: 180 minutes
 
 ### Daniele Malitesta
 
-<img src="https://danielemalitesta.github.io/images/profilo_new.jpeg" alt="Daniele Malitesta" class="rounded-corners" />
+_Ph.D. Candidate at Polytechnic University of Bari (Italy)_
+
+Website: https://danielemalitesta.github.io/
+
+<img src="https://danielemalitesta.github.io/images/profilo_new.jpeg" alt="Daniele Malitesta"  width="200"/>
+
+### Claudio Pomo
+
+_Research Fellow at Polytechnic University of Bari (Italy)_
+
+Website: https://sisinflab.poliba.it/people/claudio-pomo/
+
+<img src="https://sisinflab.poliba.it/wp-content/uploads/2020/07/image2-1197215127-scaled.jpg" alt="Claudio Pomo"  width="200"/>
+
+### Tommaso Di Noia
+
+_Professor of Computer Science at Polytechnic University of Bari (Italy)_
+
+Website: https://sisinflab.poliba.it/people/tommaso-di-noia/
+
+<img src="https://sisinflab.poliba.it/wp-content/uploads/2020/07/t_dinoia-506699224-315x270.png" alt="Tommaso Di Noia"  width="200"/>
