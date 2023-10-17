@@ -159,6 +159,18 @@ a {
   }
 }
 
+.image-container {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            padding: 20px;
+        }
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+}
+
 .main-content {
   word-wrap: break-word;
 
