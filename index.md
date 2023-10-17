@@ -73,7 +73,7 @@ _Research Fellow at Polytechnic University of Bari (Italy)_
 
 Website: [https://sisinflab.poliba.it/people/claudio-pomo/](https://sisinflab.poliba.it/people/claudio-pomo/)
 
-<img src="https://sisinflab.poliba.it/wp-content/uploads/2020/07/image2-1197215127-scaled.jpg" alt="Claudio Pomo"  width="200" "/>
+<img src="https://sisinflab.poliba.it/wp-content/uploads/2020/07/image2-1197215127-scaled.jpg" alt="Claudio Pomo"  width="200"/>
 
 ### Tommaso Di Noia
 
