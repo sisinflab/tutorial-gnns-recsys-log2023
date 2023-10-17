@@ -63,6 +63,8 @@ We are working on this...
 
 _Ph.D. Candidate at Polytechnic University of Bari (Italy)_
 
+Email: [daniele.malitesta@poliba.it](mailto:daniele.malitesta@poliba.it)
+
 Website: [https://danielemalitesta.github.io/](https://danielemalitesta.github.io/)
 
 <img src="https://danielemalitesta.github.io/images/profilo_new.jpeg" alt="Daniele Malitesta"  width="200"/>
@@ -71,6 +73,8 @@ Website: [https://danielemalitesta.github.io/](https://danielemalitesta.github.i
 
 _Research Fellow at Polytechnic University of Bari (Italy)_
 
+Email: [claudio.pomo@poliba.it](mailto:claudio.pomo@poliba.it)
+
 Website: [https://sisinflab.poliba.it/people/claudio-pomo/](https://sisinflab.poliba.it/people/claudio-pomo/)
 
 <img src="https://sisinflab.poliba.it/wp-content/uploads/2020/07/image2-1197215127-scaled.jpg" alt="Claudio Pomo"  width="200"/>
@@ -78,6 +82,8 @@ Website: [https://sisinflab.poliba.it/people/claudio-pomo/](https://sisinflab.po
 ### Tommaso Di Noia
 
 _Professor of Computer Science at Polytechnic University of Bari (Italy)_
+
+Email: [tommaso.dinoia@poliba.it](mailto:tommaso.dinoia@poliba.it)
 
 Website: [https://sisinflab.poliba.it/people/tommaso-di-noia/](https://sisinflab.poliba.it/people/tommaso-di-noia/)
 
