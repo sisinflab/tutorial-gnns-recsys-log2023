@@ -35,6 +35,20 @@ Total tutorial duration: 180 minutes
 
 **Closing remarks and Q&A**: 10 minutes
 
+## Useful material
+
+### Papers
+
+| Title | Paper                                                                                                                                                                                     | Slides                                                                                     | Venue          | Year |
+|---|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------|---|
+| How Neighborhood Exploration Influences Novelty and Diversity in Graph Collaborative Filtering | [link](https://ceur-ws.org/Vol-3268/paper7.pdf)                                                                                                                                           | [link](https://drive.google.com/file/d/1oTLRPdW2DhY9WvPDYZmUVrvgvvcyd6n7/view?usp=sharing) | MORS @ RecSys  | 2022 |
+| Auditing Consumer- and Producer-Fairness in Graph Collaborative Filtering | [link](https://www.researchgate.net/publication/366200699_Auditing_Consumer-_and_Producer-Fairness_in_Graph_Collaborative_Filtering)                                                      | [link](https://drive.google.com/file/d/1EmxrMplPd96Pkm3MFQm_0OXdaKi3pkNW/view?usp=sharing) | ECIR           | 2023 |
+| An Out-of-the-Box Application for Reproducible Graph Collaborative Filtering extending the Elliot Framework | [link](https://graph-learning-benchmarks.github.io/assets/papers/glb2023/An_Out_of_the_Box_Application_for_Reproducible_Graph_Collaborative_Filtering_extending_the_Elliot_Framework.pdf) | [link](https://drive.google.com/file/d/1xd053ZUXyWQK2rIkI86AU3edorvYEPMK/view?usp=sharing) | UMAP/GLB @ KDD | 2023 |
+| Challenging the Myth of Graph Collaborative Filtering: a Reasoned and Reproducibility-driven Analysis | [link](https://arxiv.org/pdf/2308.00404.pdf)                                                                                                                                              | [link](https://www.slideshare.net/DanieleMalitesta/recsys2023-challenging-the-myth-of-graph-collaborative-filtering-a-reasoned-and-reproducibilitydriven-analysis)                                                                                   | RecSys         | 2023 |
+| A Topology-aware Analysis of Graph Collaborative Filtering | [link](https://arxiv.org/pdf/2308.10778v1.pdf)                                                                                                                                            |                                                                                            | arXiv          | 2023 |
+| On Popularity Bias of Multimodal-aware Recommender Systems: a Modalities-driven Analysis | [link](https://arxiv.org/pdf/2308.12911.pdf)                                                                                                                                              |                                                                                            | MIIR @ MM      | 2023 |
+| Formalizing Multimedia Recommendation through Multimodal Deep Learning | [link](https://arxiv.org/pdf/2309.05273.pdf)                                                                                                                                                                                  |                                                                                            | arXiv          | 2023 |
+
 ## Tutorial speakers
 
 ### Daniele Malitesta
