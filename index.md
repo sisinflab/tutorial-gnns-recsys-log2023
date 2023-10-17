@@ -13,7 +13,7 @@ Total tutorial duration: 180 minutes
 **Introduction and background** (Tommaso Di Noia): 20 minutes
 
 + Introduction and motivations of the tutorial: 5 minutes
-+ Basics concepts of recommender systems \& GNNs-based recommendation: 15 minutes
++ Basics concepts of recommender systems & GNNs-based recommendation: 15 minutes
 
 **Reproducibility**: 60 minutes
 
