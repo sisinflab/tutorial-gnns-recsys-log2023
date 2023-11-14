@@ -1,4 +1,4 @@
-# Graph Topology
+# Part 2. Graph Topology
 
 This page contains the useful resources for the tutorial's section _Graph Topology_.
 
