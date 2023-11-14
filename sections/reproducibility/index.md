@@ -1,6 +1,20 @@
 # Part 1. Reproducibility
 
-This page contains the useful resources for the tutorial's section _Reproducibility_.
+This page contains the useful resources for part 1 of the tutorial: _Reproducibility_.
 
-- Daniele Malitesta, Claudio Pomo, Vito Walter Anelli, Alberto Carlo Maria Mancino, Eugenio Di Sciascio, Tommaso Di Noia: _A Topology-aware Analysis of Graph Collaborative Filtering_. CoRR abs/2308.10778 (2023).  
-\[[**paper**](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/papers/arXiv.pdf)\]\[[**code**](https://github.com/sisinflab/Graph-Characteristics)\]
+## Schedule
+**Duration:** 60 minutes
+
+- **[Hands-on]** Implementation of GNNs-based recsys in Elliot with PyG and reproducibility issues (Daniele Malitesta): 25 minutes
+- **[Hands-on]** Reproducing the results of state-of-the-art GNNs-based recommender systems (Claudio Pomo): 25 minutes
+- Performance comparison of GNNs-based approaches to traditional recommendation systems (Claudio Pomo): 10 minutes
+
+## Slides
+Coming soon...
+
+## Papers
+
+- Vito Walter Anelli, Daniele Malitesta, Claudio Pomo, Alejandro Bellogín, Eugenio Di Sciascio, Tommaso Di Noia:
+_Challenging the Myth of Graph Collaborative Filtering: a Reasoned and Reproducibility-driven Analysis_. RecSys 2023: 350-361  
+\[[**paper**](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/papers/RecSys.pdf)\]\[[**code**](https://github.com/sisinflab/Graph-RSs-Reproducibility)\]
+
