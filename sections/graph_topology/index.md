@@ -1,6 +1,6 @@
 # Part 2. Graph Topology
 
-This page contains the useful resources for part 2 of the tutorial titled: _Graph Topology_.
+This page contains the useful resources for part 2 of the tutorial: _Graph Topology_.
 
 ## Slides
 Coming soon...
