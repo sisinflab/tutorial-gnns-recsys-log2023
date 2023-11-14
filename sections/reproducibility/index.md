@@ -10,11 +10,7 @@ This page contains the useful resources for part 1 of the tutorial: _Reproducibi
 - Performance comparison of GNNs-based approaches to traditional recommendation systems (Claudio Pomo): 10 minutes
 
 ## Slides
-<object data="https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/papers/RecSys.pdf" width="700px" height="700px">
-    <embed src="https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/papers/RecSys.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/papers/RecSys.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+Coming soon...
 
 ## Notebooks
 
