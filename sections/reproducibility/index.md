@@ -15,9 +15,9 @@ Coming soon...
 ## Papers
 
 - Vito Walter Anelli, Daniele Malitesta, Claudio Pomo, Alejandro Bellogín, Eugenio Di Sciascio, Tommaso Di Noia:
-_Challenging the Myth of Graph Collaborative Filtering: a Reasoned and Reproducibility-driven Analysis_. RecSys 2023: 350-361  
+_Challenging the Myth of Graph Collaborative Filtering: a Reasoned and Reproducibility-driven Analysis_. RecSys 2023: 350-361.  
 \[[**paper**](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/papers/RecSys.pdf)\]\[[**code**](https://github.com/sisinflab/Graph-RSs-Reproducibility)\]
 - Daniele Malitesta, Claudio Pomo, Vito Walter Anelli, Tommaso Di Noia, Antonio Ferrara:
-_An Out-of-the-Box Application for Reproducible Graph Collaborative Filtering extending the Elliot Framework_. UMAP (Adjunct Publication) 2023: 12-15.
+_An Out-of-the-Box Application for Reproducible Graph Collaborative Filtering extending the Elliot Framework_. UMAP (Adjunct Publication) 2023: 12-15.  
 \[[**paper**](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/papers/UMAP.pdf)\]\[[**code**](https://github.com/sisinflab/Graph-Demo)\]
 
