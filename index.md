@@ -24,7 +24,7 @@ Total tutorial duration: 180 minutes
 
 **Reproducibility**: 60 minutes
 
-+ **[Hands-on 1]** Implementation and reproducibility of GNNs-based recsys in Elliot with PyG and reproducibility issues (Daniele Malitesta): 35 minutes
++ **[Hands-on #1]** Implementation and reproducibility of GNNs-based recsys in Elliot with PyG and reproducibility issues (Daniele Malitesta): 35 minutes
 + Performance comparison of GNNs-based approaches to traditional recommendation systems (Claudio Pomo): 25 minutes
 
 **Break and Q&A**: 15 minutes
@@ -37,7 +37,7 @@ Total tutorial duration: 180 minutes
 **Node representation**: 45 minutes
 
 + Design choices to train node embeddings from scratch (Claudio Pomo): 20 minutes
-+ **[Hands-on 3]** Leveraging item's side-information (e.g., multimodal features) to represent node embeddings (Daniele Malitesta): 25 minutes
++ **[Hands-on #2]** Leveraging item's side-information (e.g., multimodal features) to represent node embeddings (Daniele Malitesta): 25 minutes
 
 **Closing remarks and Q&A**: 10 minutes
 
