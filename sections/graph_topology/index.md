@@ -6,7 +6,7 @@ layout: other
     <a href="https://sisinflab.github.io/tutorial-gnns-recsys-log2023" class="button">Tutorial</a>
     <a href="https://sisinflab.github.io/tutorial-gnns-recsys-log2023/sections/introduction/" class="button">Introduction</a>
     <a href="https://sisinflab.github.io/tutorial-gnns-recsys-log2023/sections/reproducibility/" class="button">Reproducibility</a>
-    <a href="https://sisinflab.github.io/tutorial-gnns-recsys-log2023/sections/node-representation/" class="button">Node Representation</a>
+    <a href="https://sisinflab.github.io/tutorial-gnns-recsys-log2023/sections/node_representation/" class="button">Node Representation</a>
 </div>
 
 # Part 2. Graph Topology
