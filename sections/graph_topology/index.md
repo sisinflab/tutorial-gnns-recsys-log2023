@@ -1,3 +1,7 @@
+---
+layout: other
+---
+
 # Part 2. Graph Topology
 
 This page contains the useful resources for part 2 of the tutorial: _Graph Topology_.
