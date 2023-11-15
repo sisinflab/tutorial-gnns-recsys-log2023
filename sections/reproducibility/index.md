@@ -1,3 +1,14 @@
+---
+layout: other
+---
+
+<div class="button-container">
+    <a href="https://sisinflab.github.io/tutorial-gnns-recsys-log2023" class="button">Tutorial</a>
+    <a href="https://sisinflab.github.io/tutorial-gnns-recsys-log2023/sections/introduction/" class="button">Introduction</a>
+    <a href="https://sisinflab.github.io/tutorial-gnns-recsys-log2023/sections/graph_topology/" class="button">Graph Topology</a>
+    <a href="https://sisinflab.github.io/tutorial-gnns-recsys-log2023/sections/node_representation/" class="button">Node Representation</a>
+</div>
+
 # Part 1. Reproducibility
 
 This page contains the useful resources for part 1 of the tutorial: _Reproducibility_.
