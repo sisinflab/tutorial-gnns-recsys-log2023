@@ -16,6 +16,8 @@ This page contains the useful resources for part 0 of the tutorial: _Introductio
 ## Schedule
 **Duration:** 20 minutes
 
+**Panelist:** Tommaso Di Noia
+
 - Introduction and motivations of the tutorial: 5 minutes
 - Basics concepts of recommender systems & GNNs-based recommendation: 15 minutes
 
