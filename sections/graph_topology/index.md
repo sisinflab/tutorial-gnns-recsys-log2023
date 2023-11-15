@@ -2,6 +2,12 @@
 layout: other
 ---
 
+<div class="button-container">
+    <a href="https://example.com" class="button">Button 1</a>
+    <a href="https://example2.com" class="button">Button 2</a>
+    <a href="https://example3.com" class="button">Button 3</a>
+</div>
+
 # Part 2. Graph Topology
 
 This page contains the useful resources for part 2 of the tutorial: _Graph Topology_.
