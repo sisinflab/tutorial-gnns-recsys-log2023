@@ -22,10 +22,10 @@ Total tutorial duration: 180 minutes
 + Introduction and motivations of the tutorial: 5 minutes
 + Basics concepts of recommender systems & GNNs-based recommendation: 15 minutes
 
-**Reproducibility**: 60 minutes
+**Reproducibility** (Claudio Pomo): 60 minutes
 
-+ **[Hands-on #1]** Implementation and reproducibility of GNNs-based recsys in Elliot with PyG and reproducibility issues (Daniele Malitesta): 35 minutes
-+ Performance comparison of GNNs-based approaches to traditional recommendation systems (Claudio Pomo): 25 minutes
++ **[Hands-on #1]** Implementation and reproducibility of GNNs-based recsys in Elliot with PyG and reproducibility issues: 35 minutes
++ Performance comparison of GNNs-based approaches to traditional recommendation systems: 25 minutes
 
 **Break and Q&A**: 15 minutes
 
@@ -34,10 +34,10 @@ Total tutorial duration: 180 minutes
 + Concepts and formulations of graph topological properties of the user-item graph (Tommaso Di Noia): 15 minutes
 + Impact of topological graph properties on the performance of GNNs-based recommender systems (Daniele Malitesta): 15 minutes
 
-**Node representation**: 45 minutes
+**Node representation** (Daniele Malitesta): 45 minutes
 
-+ Design choices to train node embeddings from scratch (Claudio Pomo): 20 minutes
-+ **[Hands-on #2]** Leveraging item's side-information (e.g., multimodal features) to represent node embeddings (Daniele Malitesta): 25 minutes
++ Design choices to train node embeddings from scratch: 20 minutes
++ **[Hands-on #2]** Leveraging item's side-information (e.g., multimodal features) to represent node embeddings: 25 minutes
 
 **Closing remarks and Q&A**: 10 minutes
 
