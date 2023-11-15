@@ -16,8 +16,10 @@ This page contains the useful resources for part 3 of the tutorial: _Node Repres
 ## Schedule
 **Duration:** 45 minutes
 
+**Panelist:** Daniele Malitesta
+
 - Design choices to train node embeddings from scratch: 20 minutes
-- **[Hands-on #2]** Leveraging item’s side-information (e.g., multimodal features) to represent node embeddings: 25 minutess
+- **[Hands-on #2]** Leveraging item’s side-information (e.g., multimodal features) to represent node embeddings: 25 minutes
 
 ## Slides
 Coming soon...
