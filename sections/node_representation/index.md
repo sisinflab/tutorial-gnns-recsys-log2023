@@ -34,7 +34,7 @@ Coming soon...
 _Auditing Consumer- and Producer-Fairness in Graph Collaborative Filtering_. ECIR (1) 2023: 33-48.  
 \[[**paper**](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/papers/ECIR.pdf)\]\[[**code**](https://github.com/sisinflab/ECIR2023-Graph-CF)\]
 - Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, Eugenio Di Sciascio, Antonio Ferrara, Daniele Malitesta, Claudio Pomo:
-_How Neighborhood Exploration influences Novelty and Diversity in Graph Collaborative Filtering_. MORS@RecSys 2022
+_How Neighborhood Exploration influences Novelty and Diversity in Graph Collaborative Filtering_. MORS@RecSys 2022  
 \[[**paper**](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/papers/MORS.pdf)\]\[[**code**](https://github.com/danielemalitesta/MORS-Recsys2022-Novelty-Diversity-Graph)\]
 - Daniele Malitesta, Giandomenico Cornacchia, Claudio Pomo, Felice Antonio Merra, Tommaso Di Noia, Eugenio Di Sciascio:
 _Formalizing Multimedia Recommendation through Multimodal Deep Learning_. CoRR abs/2309.05273 (2023).  
