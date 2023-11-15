@@ -30,5 +30,9 @@ Coming soon...
 
 ## Papers
 
-- Daniele Malitesta, Claudio Pomo, Vito Walter Anelli, Alberto Carlo Maria Mancino, Eugenio Di Sciascio, Tommaso Di Noia: _A Topology-aware Analysis of Graph Collaborative Filtering_. CoRR abs/2308.10778 (2023).  
-\[[**paper**](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/papers/arXiv.pdf)\]\[[**code**](https://github.com/sisinflab/Graph-Characteristics)\]
+- Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, Daniele Malitesta, Vincenzo Paparella, Claudio Pomo:
+_Auditing Consumer- and Producer-Fairness in Graph Collaborative Filtering_. ECIR (1) 2023: 33-48.  
+\[[**paper**](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/papers/ECIR.pdf)\]\[[**code**](https://github.com/sisinflab/ECIR2023-Graph-CF)\]
+- Daniele Malitesta, Giandomenico Cornacchia, Claudio Pomo, Felice Antonio Merra, Tommaso Di Noia, Eugenio Di Sciascio:
+_Formalizing Multimedia Recommendation through Multimodal Deep Learning_. CoRR abs/2309.05273 (2023).
+\[[**paper**](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/papers/arXiv.pdf)\]\[[**code**](https://github.com/sisinflab/Formal-MultiMod-Rec)\]
