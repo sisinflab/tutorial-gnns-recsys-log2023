@@ -16,6 +16,8 @@ This page contains the useful resources for part 2 of the tutorial: _Graph Topol
 ## Schedule
 **Duration:** 30 minutes
 
+**Panelists:** Tommaso Di Noia, Daniele Malitesta
+
 - Concepts and formulations of graph topological properties of the user-item graph (Tommaso Di Noia): 15 minutes
 - Impact of topological graph properties on the performance of GNNs-based recommender systems (Daniele Malitesta): 15 minutes
 
