@@ -16,7 +16,7 @@ This page contains the useful resources for part 1 of the tutorial: _Reproducibi
 ## Schedule
 **Duration:** 60 minutes
 
-**Panelists:** Claudio Pomo
+**Panelist:** Claudio Pomo
 
 - **[Hands-on #1]** Implementation and reproducibility of GNNs-based recsys in Elliot with PyG and reproducibility issues: 35 minutes
 - Performance comparison of GNNs-based approaches to traditional recommendation systems: 25 minutes
