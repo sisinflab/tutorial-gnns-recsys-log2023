@@ -3,9 +3,9 @@ layout: other
 ---
 
 <div class="button-container">
-    <a href="https://example.com" class="button">Button 1</a>
-    <a href="https://example2.com" class="button">Button 2</a>
-    <a href="https://example3.com" class="button">Button 3</a>
+    <a href="https://sisinflab.github.io/tutorial-gnns-recsys-log2023" class="button">Tutorial</a>
+    <a href="https://sisinflab.github.io/tutorial-gnns-recsys-log2023/sections/reproducibility/" class="button">Reproducibility</a>
+    <a href="https://sisinflab.github.io/tutorial-gnns-recsys-log2023/sections/node-representation/" class="button">Node Representation</a>
 </div>
 
 # Part 2. Graph Topology
