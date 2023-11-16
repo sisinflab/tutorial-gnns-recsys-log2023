@@ -24,6 +24,17 @@
     cursor: pointer;
 }
 
+.button_clicked {
+    margin-right: 10px;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #519D66;
+    border: 1px solid #519D66;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
 @mixin medium {
   @media screen and (min-width: #{$medium-breakpoint}) and (max-width: #{$large-breakpoint}) {
     @content;
