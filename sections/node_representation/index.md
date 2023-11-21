@@ -27,7 +27,7 @@ Coming soon...
 
 ## Notebooks
 
-- **[Hands-on #2]**: [**colab**]()
+- **[Hands-on #2]**: [**colab**](https://colab.research.google.com/drive/1socyjwzmYNAm3trlquAevq-R1d4zX3KH?usp=sharing)
 
 ## Papers
 
