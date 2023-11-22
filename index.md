@@ -17,7 +17,7 @@ Total tutorial duration: 180 minutes
     <a href="https://sisinflab.github.io/tutorial-gnns-recsys-log2023/sections/node_representation/" class="button">Pt.3 Node Representation</a>
 </div>
 
-**Introduction and background** (<u>Tommaso Di Noia</u>): 20 minutes
+**Introduction and background** (Tommaso Di Noia): 20 minutes
 
 + Introduction and motivations of the tutorial: 5 minutes
 + Basics concepts of recommender systems & GNNs-based recommendation: 15 minutes
