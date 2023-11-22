@@ -49,7 +49,8 @@ We are working on this...
 
 ### Codes
 
-We are working on this...
+- **[Hands-on #1]**: [colab](https://colab.research.google.com/drive/1_li7RQ_Rj4JaAVpw1kvuOGhrDpfCL-UQ?usp=sharing)
+- **[Hands-on #2]**: [colab](https://colab.research.google.com/drive/1socyjwzmYNAm3trlquAevq-R1d4zX3KH?usp=sharing)
 
 ### Papers
 
