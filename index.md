@@ -41,11 +41,7 @@ Total tutorial duration: 180 minutes
 
 **Closing remarks and Q&A**: 10 minutes
 
-## Useful material
-
-### Slides
-
-We are working on this...
+## Additional useful material
 
 ### Codes
 
