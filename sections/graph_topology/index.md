@@ -14,7 +14,6 @@ layout: other
 
 This page contains the useful resources for part 2 of the tutorial: _Graph Topology_.
 
-## Schedule
 **Duration:** 30 minutes
 
 **Panelists:** Tommaso Di Noia, Daniele Malitesta
