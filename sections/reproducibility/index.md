@@ -23,7 +23,7 @@ This page contains the useful resources for part 1 of the tutorial: _Reproducibi
 
 **Materials**
 
-**\[[slides](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part1.pdf)\]** **[colab](https://colab.research.google.com/drive/1_li7RQ_Rj4JaAVpw1kvuOGhrDpfCL-UQ?usp=sharing)**
+**\[[slides](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part1.pdf)\]** **\[[colab](https://colab.research.google.com/drive/1_li7RQ_Rj4JaAVpw1kvuOGhrDpfCL-UQ?usp=sharing)\]**
 
 **Papers**
 
