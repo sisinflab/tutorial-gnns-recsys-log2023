@@ -21,9 +21,7 @@ This page contains the useful resources for part 3 of the tutorial: _Node Repres
 - Design choices to train node embeddings from scratch: 20 minutes
 - **[Hands-on #2]** Leveraging item’s side-information (e.g., multimodal features) to represent node embeddings: 25 minutes
 
-**Materials**
-
-**\[[slides](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part3.pdf)\]** **\[[colab](https://colab.research.google.com/drive/1socyjwzmYNAm3trlquAevq-R1d4zX3KH?usp=sharing)\]**
+**Materials:** **\[[slides](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part3.pdf)\]** **\[[colab](https://colab.research.google.com/drive/1socyjwzmYNAm3trlquAevq-R1d4zX3KH?usp=sharing)\]**
 
 **Papers**
 - Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, Daniele Malitesta, Vincenzo Paparella, Claudio Pomo:
