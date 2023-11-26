@@ -21,9 +21,7 @@ This page contains the useful resources for part 2 of the tutorial: _Graph Topol
 - Concepts and formulations of graph topological properties of the user-item graph (Tommaso Di Noia): 15 minutes
 - Impact of topological graph properties on the performance of GNNs-based recommender systems (Daniele Malitesta): 15 minutes
 
-**Materials**
-
-**\[[slides](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part2.pdf)\]**
+**Materials:** **\[[slides](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part2.pdf)\]**
 
 **Papers**
 - Daniele Malitesta, Claudio Pomo, Vito Walter Anelli, Alberto Carlo Maria Mancino, Eugenio Di Sciascio, Tommaso Di Noia: _A Topology-aware Analysis of Graph Collaborative Filtering_. CoRR abs/2308.10778 (2023).  
