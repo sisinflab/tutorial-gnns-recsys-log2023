@@ -23,11 +23,11 @@ This page contains the useful resources for part 1 of the tutorial: _Reproducibi
 - Performance comparison of GNNs-based approaches to traditional recommendation systems: 25 minutes
 
 ## Slides
-Coming soon...
+**\[[PDF](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part1.pdf)\]**
 
 ## Notebooks
 
-- **[Hands-on #1]**: [**colab**](https://colab.research.google.com/drive/1_li7RQ_Rj4JaAVpw1kvuOGhrDpfCL-UQ?usp=sharing)
+**[Hands-on #1]**: [**colab**](https://colab.research.google.com/drive/1_li7RQ_Rj4JaAVpw1kvuOGhrDpfCL-UQ?usp=sharing)
 
 ## Papers
 
