@@ -14,7 +14,6 @@ layout: other
 
 This page contains the useful resources for part 0 of the tutorial: _Introduction and Background_.
 
-## Schedule
 **Duration:** 20 minutes
 
 **Panelist:** Tommaso Di Noia
@@ -22,5 +21,5 @@ This page contains the useful resources for part 0 of the tutorial: _Introductio
 - Introduction and motivations of the tutorial: 5 minutes
 - Basics concepts of recommender systems & GNNs-based recommendation: 15 minutes
 
-## Slides
-**\[[PDF](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part0.pdf)\]**
+**Materials**
+**\[[slides](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part0.pdf)\]**
