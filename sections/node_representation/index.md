@@ -23,7 +23,7 @@ This page contains the useful resources for part 3 of the tutorial: _Node Repres
 - **[Hands-on #2]** Leveraging item’s side-information (e.g., multimodal features) to represent node embeddings: 25 minutes
 
 ## Slides
-Coming soon...
+**\[[PDF](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part3.pdf)\]**
 
 ## Notebooks
 
