@@ -24,7 +24,7 @@ Total tutorial duration: 180 minutes
 
 **[Reproducibility](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part1.pdf)** (_Claudio Pomo_): 60 minutes
 
-+ **[Hands-on #1]** Implementation and reproducibility of GNNs-based recsys in Elliot with PyG and reproducibility issues: 35 minutes
++ **\[[Hands-on #1](https://colab.research.google.com/drive/1_li7RQ_Rj4JaAVpw1kvuOGhrDpfCL-UQ?usp=sharing)\]** Implementation and reproducibility of GNNs-based recsys in Elliot with PyG and reproducibility issues: 35 minutes
 + Performance comparison of GNNs-based approaches to traditional recommendation systems: 25 minutes
 
 **Break and Q&A**: 15 minutes
@@ -37,18 +37,11 @@ Total tutorial duration: 180 minutes
 **[Node representation](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part3.pdf)** (_Daniele Malitesta_): 45 minutes
 
 + Design choices to train node embeddings from scratch: 20 minutes
-+ **[Hands-on #2]** Leveraging item's side-information (e.g., multimodal features) to represent node embeddings: 25 minutes
++ **\[[Hands-on #2](https://colab.research.google.com/drive/1socyjwzmYNAm3trlquAevq-R1d4zX3KH?usp=sharing)\]** Leveraging item's side-information (e.g., multimodal features) to represent node embeddings: 25 minutes
 
 **Closing remarks and Q&A**: 10 minutes
 
 ## Additional useful material
-
-### Codes
-
-- **[Hands-on #1]**: [colab](https://colab.research.google.com/drive/1_li7RQ_Rj4JaAVpw1kvuOGhrDpfCL-UQ?usp=sharing)
-- **[Hands-on #2]**: [colab](https://colab.research.google.com/drive/1socyjwzmYNAm3trlquAevq-R1d4zX3KH?usp=sharing)
-
-### Papers
 
 | Title | Paper                                                                                     | Slides                                                                                    | Code                                                           | Venue     | Year |
 |---|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------|----------|------|
