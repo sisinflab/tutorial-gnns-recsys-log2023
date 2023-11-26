@@ -23,7 +23,7 @@ This page contains the useful resources for part 2 of the tutorial: _Graph Topol
 - Impact of topological graph properties on the performance of GNNs-based recommender systems (Daniele Malitesta): 15 minutes
 
 ## Slides
-**\[[PDF](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part2.pdf)\]
+**\[[PDF](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part2.pdf)\]**
 
 ## Papers
 
