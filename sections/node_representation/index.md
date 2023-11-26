@@ -26,8 +26,7 @@ This page contains the useful resources for part 3 of the tutorial: _Node Repres
 **\[[PDF](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part3.pdf)\]**
 
 ## Notebooks
-
-- **[Hands-on #2]**: [**colab**](https://colab.research.google.com/drive/1socyjwzmYNAm3trlquAevq-R1d4zX3KH?usp=sharing)
+**[Hands-on #2]**: [**colab**](https://colab.research.google.com/drive/1socyjwzmYNAm3trlquAevq-R1d4zX3KH?usp=sharing)
 
 ## Papers
 
