@@ -14,7 +14,6 @@ layout: other
 
 This page contains the useful resources for part 3 of the tutorial: _Node Representation_.
 
-## Schedule
 **Duration:** 45 minutes
 
 **Panelist:** Daniele Malitesta
@@ -22,14 +21,11 @@ This page contains the useful resources for part 3 of the tutorial: _Node Repres
 - Design choices to train node embeddings from scratch: 20 minutes
 - **[Hands-on #2]** Leveraging item’s side-information (e.g., multimodal features) to represent node embeddings: 25 minutes
 
-## Slides
-**\[[PDF](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part3.pdf)\]**
+**Materials**
 
-## Notebooks
-**[Hands-on #2]**: [**colab**](https://colab.research.google.com/drive/1socyjwzmYNAm3trlquAevq-R1d4zX3KH?usp=sharing)
+**\[[slides](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part3.pdf)\]** **\[[colab](https://colab.research.google.com/drive/1socyjwzmYNAm3trlquAevq-R1d4zX3KH?usp=sharing)\]**
 
-## Papers
-
+**Papers**
 - Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, Daniele Malitesta, Vincenzo Paparella, Claudio Pomo:
 _Auditing Consumer- and Producer-Fairness in Graph Collaborative Filtering_. ECIR (1) 2023: 33-48.  
 \[[**paper**](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/papers/ECIR.pdf)\]\[[**code**](https://github.com/sisinflab/ECIR2023-Graph-CF)\]
