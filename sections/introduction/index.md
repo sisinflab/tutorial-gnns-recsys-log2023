@@ -23,4 +23,4 @@ This page contains the useful resources for part 0 of the tutorial: _Introductio
 - Basics concepts of recommender systems & GNNs-based recommendation: 15 minutes
 
 ## Slides
-Coming soon...
+\[[PDF](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part0.pdf)\]
