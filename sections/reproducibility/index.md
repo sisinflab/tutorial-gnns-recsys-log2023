@@ -14,7 +14,6 @@ layout: other
 
 This page contains the useful resources for part 1 of the tutorial: _Reproducibility_.
 
-## Schedule
 **Duration:** 60 minutes
 
 **Panelist:** Claudio Pomo
@@ -22,14 +21,11 @@ This page contains the useful resources for part 1 of the tutorial: _Reproducibi
 - **[Hands-on #1]** Implementation and reproducibility of GNNs-based recsys in Elliot with PyG and reproducibility issues: 35 minutes
 - Performance comparison of GNNs-based approaches to traditional recommendation systems: 25 minutes
 
-## Slides
-**\[[PDF](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part1.pdf)\]**
+**Materials**
 
-## Notebooks
+**\[[slides](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part1.pdf)\]** **[colab](https://colab.research.google.com/drive/1_li7RQ_Rj4JaAVpw1kvuOGhrDpfCL-UQ?usp=sharing)**
 
-**[Hands-on #1]**: [**colab**](https://colab.research.google.com/drive/1_li7RQ_Rj4JaAVpw1kvuOGhrDpfCL-UQ?usp=sharing)
-
-## Papers
+**Papers**
 
 - Vito Walter Anelli, Daniele Malitesta, Claudio Pomo, Alejandro Bellogín, Eugenio Di Sciascio, Tommaso Di Noia:
 _Challenging the Myth of Graph Collaborative Filtering: a Reasoned and Reproducibility-driven Analysis_. RecSys 2023: 350-361.  
