@@ -22,19 +22,19 @@ Total tutorial duration: 180 minutes
 + Introduction and motivations of the tutorial: 5 minutes
 + Basics concepts of recommender systems & GNNs-based recommendation: 15 minutes
 
-**\[[Reproducibility](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part1.pdf)\]** (_Claudio Pomo_): 60 minutes
+**[Reproducibility](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part1.pdf)** (_Claudio Pomo_): 60 minutes
 
 + **[Hands-on #1]** Implementation and reproducibility of GNNs-based recsys in Elliot with PyG and reproducibility issues: 35 minutes
 + Performance comparison of GNNs-based approaches to traditional recommendation systems: 25 minutes
 
 **Break and Q&A**: 15 minutes
 
-**\[[Graph topology](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part2.pdf)\]**: 30 minutes
+**[Graph topology](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part2.pdf)**: 30 minutes
 
 + Concepts and formulations of graph topological properties of the user-item graph (_Tommaso Di Noia_): 15 minutes
 + Impact of topological graph properties on the performance of GNNs-based recommender systems (_Daniele Malitesta_): 15 minutes
 
-**\[[Node representation](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part3.pdf)]** (_Daniele Malitesta_): 45 minutes
+**[Node representation](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part3.pdf)** (_Daniele Malitesta_): 45 minutes
 
 + Design choices to train node embeddings from scratch: 20 minutes
 + **[Hands-on #2]** Leveraging item's side-information (e.g., multimodal features) to represent node embeddings: 25 minutes
